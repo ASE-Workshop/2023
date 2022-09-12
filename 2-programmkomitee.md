@@ -4,12 +4,15 @@ nav: true
 ---
 __Programmkomitee__
 
+
 Dr. Christian Allmann, Audi AG\
 Prof. Dr. Marcel Baunach, Technische Universität Graz\
 Prof. Dr. Lenz Belzner, Technische Hochschule Ingolstadt\
 Dr. Mirko Conrad, samoconsult GmbH\
+Dr. Heiko Dörr, Method Park by UL\
 Dr. Kerstin Hartig, Expleo Germany GmbH\
 Dr. Andreas Heyl, Robert Bosch GmbH\
+Prof. Dr. Steffen Helke, Fachhochschule Südwestfalen\
 Prof. Dr. Paula Herber, Universität Münster\
 Prof. Dr. Thomas Kropf, Robert Bosch GmbH\
 Apl. Prof. Dr. Wolfgang Müller, Universität Paderborn\
