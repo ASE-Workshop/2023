@@ -3,6 +3,5 @@ title: Registrierung
 nav: true
 ---
 
-Participation as an author or listener requires a registration at the hosting conference SE23.
+Eine Registrierung für den Workshop wird auf [Software Engineering 2023](https://www.se-2023.de/)  Ende 2022 ermöglicht werden.  
 
-Registration opens at the end of this year
