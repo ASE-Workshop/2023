@@ -5,7 +5,7 @@ title: Home
 Willkommen zum 20. Workshop Automotive Software Engineering!
 {: style="color:black; font-size: 180%; text-align: center;"}
 
-[Software Engineering 2023](https://www.se-2023.de/) - 20.02.2023 - Paderborn
+[Software Engineering 2023](https://se-2023.gi.de/) - 20.02.2023 - Paderborn
 {: style="color:gray; font-size: 130%; text-align: center;"}
 
 Beachten Sie die [Hinweise zur Teilnahme](https://ase-workshop.github.io/2023/1-registrierung.html)
