@@ -5,7 +5,7 @@ nav: true
 
 ### Überblick der bisherigen Workshops:
 
-- [19. Workshop ASE, SE 2021 in Berlin](https://ase-workshop.github.io/2022/)
+- [19. Workshop ASE, SE 2022 in Berlin](https://ase-workshop.github.io/2022/)
 - [18. Workshop ASE, SE 2021 in Braunschweig](https://ase-workshop.github.io/2021/)
 - [17. Workshop ASE, SE 2020 in Innsbruck](https://sites.google.com/view/ase2020/home)
 - [16. Workshop ASE, SE 2019 in Stuttgart](https://www.informatik.tu-cottbus.de/~helke/ase2019/#history)
