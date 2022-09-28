@@ -19,7 +19,7 @@ Apl. Prof. Dr. Wolfgang Müller, Universität Paderborn\
 Dr. Thomas Noack, Datendeuter\
 Dr. Thomas Peikenkamp, OFFIS\
 Prof. Dr. Ralf Reißing, Hochschule Coburg\
-Prof. Dr. Eric Sax, Karlsruhe Institute of Technology (KIT)\
+Prof. Dr. Eric Sax, Karlsruhe Institute of Technology\
 Prof. Dr. Ina Schaefer, Technische Universität Braunschweig\
 Prof. Dr. Holger Schlingloff, Humboldt Universität und Fraunhofer FOKUS, Berlin\
 Prof. Dr. Jörn Schneider, Hochschule Trier\
