@@ -16,7 +16,7 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 - Qualitätssicherung sowie Analyse der funktionalen und nicht-funktionalen Eigenschaften
 - Sicherheitsaspekte (Security und Safety)   
 - Verhaltensadaption auf Basis des Umgebungskontexts, z.B. des Fahrzeugs oder des Fahrers
-- multimodale Mensch-Fahrzeug-Interaktion
+- Multimodale Mensch-Fahrzeug-Interaktion
 - e-mobility
 - Basissoftware und Systemdienste
 
