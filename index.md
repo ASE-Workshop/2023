@@ -19,7 +19,7 @@ Wie seine Vorgänger setzt sich der 20. Workshop Automotive Software Engineering
 
 ## Ziele
 
-In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Beiträge aus allen Bereichen der Entwicklung von Software für moderne Fahrzeuge sind erwünscht. Der Workshop richtet sich gleichermaßen an Forscher\*innen, Entwickler\*innen und Anwender\*innen aus der Automobilindustrie sowie an Wissenschaftler\*innen aus Forschungsinstituten und Hochschulen, die im Gebiet Automotive Software Engineering arbeiten. Im Fokus stehen traditionell weniger theoretische, als vielmehr praxisnahe Arbeiten.
+In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Beiträge aus allen Bereichen der Entwicklung von Software für moderne Fahrzeuge sind erwünscht. Der Workshop richtet sich gleichermaßen an Forscher:innen, Entwickler:innen und Anwender:innen aus der Automobilindustrie sowie an Wissenschaftler:innen aus Forschungsinstituten und Hochschulen, die im Gebiet Automotive Software Engineering arbeiten. Im Fokus stehen traditionell weniger theoretische, als vielmehr praxisnahe Arbeiten.
 {: style="text-align: justify"}
 
 ## Organisation
