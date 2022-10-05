@@ -17,7 +17,7 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 - Sicherheitsaspekte (Security und Safety)   
 - Verhaltensadaption auf Basis des Umgebungskontexts, z.B. des Fahrzeugs oder des Fahrers
 - Multimodale Mensch-Fahrzeug-Interaktion
-- e-mobility
+- E-mobility
 - Basissoftware und Systemdienste
 
 
