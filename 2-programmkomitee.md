@@ -20,7 +20,7 @@ Dr. Thomas Noack, Datendeuter\
 Dr. Thomas Peikenkamp, OFFIS\
 Prof. Dr. Ralf Reißing, Hochschule Coburg\
 Prof. Dr. Eric Sax, Karlsruhe Institute of Technology\
-Prof. Dr. Ina Schaefer, Technische Universität Braunschweig\
+Prof. Dr. Ina Schaefer, Karlsruhe Institute of Technology\
 Prof. Dr. Holger Schlingloff, Humboldt Universität und Fraunhofer FOKUS, Berlin\
 Prof. Dr. Jörn Schneider, Hochschule Trier\
 Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\
