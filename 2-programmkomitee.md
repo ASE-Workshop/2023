@@ -20,12 +20,8 @@ Dr. Thomas Noack, Datendeuter\
 Dr. Thomas Peikenkamp, OFFIS\
 Prof. Dr. Ralf Reißing, Hochschule Coburg\
 Prof. Dr. Eric Sax, Karlsruhe Institute of Technology\
-Prof. Dr. Ina Schaefer, Karlsruhe Institute of Technology\
 Prof. Dr. Holger Schlingloff, Humboldt Universität und Fraunhofer FOKUS, Berlin\
 Prof. Dr. Jörn Schneider, Hochschule Trier\
 Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\
-Prof. Dr. Thomas Thüm, Universität Ulm\
 Dr. Thomas Vogel, Humboldt Universität zu Berlin\
 Prof. Dr. Andreas Vogelsang, Universität zu Köln\
-Dr. Rebekka Wohlrab, Carnegie Mellon University and Chalmers University of Technology in Göteborg\
-Jun.-Prof. Dr. Andreas Wortmann, Universität Stuttgart
