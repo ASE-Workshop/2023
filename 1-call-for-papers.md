@@ -24,7 +24,7 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=ase2023). 
 
 __Wichtige Termine__\
-Einreichungsfrist: 02.12.2022\
+Einreichungsfrist: ~~02.12.2022~~16.12.2022\
 Benachrichtigungen: 16.01.2023\
 Finale Version: 30.01.2023
 
