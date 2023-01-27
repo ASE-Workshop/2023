@@ -3,12 +3,8 @@ title: Programm
 nav: true
 ---
 
-13:20 Opening
-13.30 
-15:00 Coffee break
-18:00 ASE Meeting
-        
-Im Folgenden finden Sie einen Überblick über das Programm. Der Workshop wird über ein Zoom-Meeting ablaufen, für welches Sie die Zugangsdaten von der Konferenzorganisation zugeschickt bekommen werden.
+
+Im Folgenden finden Sie einen Überblick über das Programm. 
 
 ### Programm
 
@@ -93,7 +89,6 @@ table.GeneratedTable thead {
       <td>16:00-16:30</td>
       <td>Pause</td>
     </tr>
-
     <tr>
       <td>16:30-17:00</td>
       <td>Papier 4 (Peer-Review)<p></p>
