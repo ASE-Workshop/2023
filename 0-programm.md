@@ -54,7 +54,7 @@ table.GeneratedTable thead {
       <td>Keynote<p></p>
         <b>Peter Munk</b> <br/>
           <sup> Robert Bosch GmbH  </sup> <p></p>
-        <b>Titel TBD</b> 
+        <b>SafeOps – Wie Funktionale Sicherheit von den DevOps Prinzipien Automatisierung und Monitoring profitieren kann</b> 
         <sup><p></p> Abstract</sup></td>
     </tr>    
      <tr>
