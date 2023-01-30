@@ -55,7 +55,8 @@ table.GeneratedTable thead {
         <b>Peter Munk</b> <br/>
           <sup> Robert Bosch GmbH  </sup> <p></p>
         <b>SafeOps – Wie Funktionale Sicherheit von den DevOps Prinzipien Automatisierung und Monitoring profitieren kann</b> 
-        <sup><p></p> Abstract</sup></td>
+        <sup><p></p> Der Fokus aktueller Entwicklungsprozesse für sicherheitskritische Systeme liegt vor allem auf dem Erreichen eines akzeptablen Restrisikos zum Produktionsstart (SOP). Gleichzeitig gibt es auch in sicherheitskritischen Industrien den Trend, nicht nur Produkte zu verkaufen, sondern Services anzubieten, wodurch eine kontinuierliche Weiterentwicklung und Verbesserung des Produkts nach SOP attraktiv wird. Daraus folgt die Motivation, agile Entwicklungsprozesse wie DevOps einzusetzen, welche die Produkt(weiter)entwicklung über den gesamten Produktlebenszyklus iterativ und in schnellen Zyklen vorsieht.<br/>
+Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungsprozess zu gewährleisten, ist mehr Automatisierung in Safety Management Aufgaben und im Safety Engineering notwendig. Außerdem sollten Rückschlüsse über die Qualität des Sicherheitskonzepts aus Felddaten gezogen werden, um auch dieses iterativ über den gesamten Produktlebenszyklus zu verbessern. In diesem Beitrag werden Möglichkeiten zur Automatisierung entlang des gesamten Entwicklungsprozesses aufgezeigt und ein erstes Konzept zur Überwachung von Safety Eigenschaften im Betrieb präsentiert.</sup></td>
     </tr>    
      <tr>
       <td>14:00-14:30</td>
