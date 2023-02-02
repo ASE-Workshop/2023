@@ -3,7 +3,7 @@ title: Programm
 nav: true
 ---
 
-Der ASE Workshop 2023 wird im Heinz Nizdorf Forum(HNF),  Fürstenallee 7, 33102 Paderborn, im Seminarraum S5 stattfinden
+Der ASE Workshop 2023 wird im Heinz Nizdorf Forum(HNF),  Fürstenallee 7, 33102 Paderborn, im Seminarraum S5 stattfinden.
 Im Folgenden finden Sie einen Überblick über das Programm. 
 
 
@@ -55,7 +55,8 @@ table.GeneratedTable thead {
       <td>
         <b>Begrüßung</b> <br/>
           <sup> Ort:HNF,Seminarraum S5 </sup> <p></p>
-      </tr>
+      </td>
+    </tr>  
     <tr>
       <td>13:10-14:00</td>
       <td>Keynote<p></p>
