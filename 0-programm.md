@@ -58,12 +58,8 @@ table.GeneratedTable thead {
         <sup><p></p> Der Fokus aktueller Entwicklungsprozesse für sicherheitskritische Systeme liegt vor allem auf dem Erreichen eines akzeptablen Restrisikos zum Produktionsstart (SOP). Gleichzeitig gibt es auch in sicherheitskritischen Industrien den Trend, nicht nur Produkte zu verkaufen, sondern Services anzubieten, wodurch eine kontinuierliche Weiterentwicklung und Verbesserung des Produkts nach SOP attraktiv wird. Daraus folgt die Motivation, agile Entwicklungsprozesse wie DevOps einzusetzen, welche die Produkt(weiter)entwicklung über den gesamten Produktlebenszyklus iterativ und in schnellen Zyklen vorsieht.<br/>
 Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungsprozess zu gewährleisten, ist mehr Automatisierung in Safety Management Aufgaben und im Safety Engineering notwendig. Außerdem sollten Rückschlüsse über die Qualität des Sicherheitskonzepts aus Felddaten gezogen werden, um auch dieses iterativ über den gesamten Produktlebenszyklus zu verbessern. In diesem Beitrag werden Möglichkeiten zur Automatisierung entlang des gesamten Entwicklungsprozesses aufgezeigt und ein erstes Konzept zur Überwachung von Safety Eigenschaften im Betrieb präsentiert.</sup></td>
     </tr>    
-     <tr>
-      <td>14:00-14:30</td>
-      <td>Pause</td>
-    </tr>
     <tr>
-      <td>14:30-15:00</td>
+      <td>14:00-14:30</td>
       <td>Papier 1 (Peer-Review)<p></p>
         <b>Jan Steffen Becker, Björn Koopmann, Ingo Stierand and Lukas Westhofen</b> <br/>
         <sup>  German Aerospace Center (DLR), Institute of Systems Engineering for Future Mobility</sup> <p></p>
@@ -71,7 +67,7 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
         </td>
      </tr>  
     <tr>
-      <td>15:00-15:30</td>
+      <td>14:30-15:00</td>
       <td>Papier 2 (Peer-Review)<p></p>
         <b> Joachim Schlosser, Moritz Neukirchner, Alexander Mattausch and Rainer Holve </b> <br/>
         <sup> Elektrobit Automotive GmbH, ibidem </sup> <p></p>
@@ -79,7 +75,7 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
         </td>
      </tr>  
     <tr>
-      <td>15:30-16:00</td>
+      <td>15:00-15:30</td>
       <td>Papier 3 (Peer-Review)<p></p>
         <b>Stefan Schlichthaerle, Philipp Wullstein-Kammler and Florian Schanda</b> <br/>
         <sup> BMW Group</sup> <p></p>
@@ -87,11 +83,11 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
         </td>
      </tr>  
      <tr>
-      <td>16:00-16:30</td>
+      <td>15:30-16:00</td>
       <td>Pause</td>
     </tr>
     <tr>
-      <td>16:30-17:00</td>
+      <td>16:00-16:30</td>
       <td>Papier 4 (Peer-Review)<p></p>
         <b>Rohit Bohara, Mirko Ross and Sara Ghatta </b> <br/>
         <sup> asvin GmbH</sup> <p></p>
@@ -99,7 +95,7 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
         </td>
      </tr>  
     <tr>
-      <td>17:00-17:30</td>
+      <td>16:30-17:00</td>
       <td>Papier 5 (Peer-Review)<p></p>
         <b>Janis Kröger and Martin Fränzle</b> <br/>
         <sup> Carl von Ossietzky Universität Oldenburg, Department für Informatik</sup> <p></p>
@@ -107,7 +103,7 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
         </td>
      </tr>  
     <tr>
-      <td>17:30-18:00</td>
+      <td>17:00-17:30</td>
       <td>Papier 6 (Peer-Review)<p></p>
         <b>Astrid Rakow and Maike Schwammberger</b> <br/>
         <sup> Carl von Ossietzky Universität Oldenburg, Department für Informatik</sup> <p></p>
@@ -115,7 +111,13 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
         </td>
      </tr>  
     <tr>      
-      <td>18:00-</td>
+      <td>17:30-18.00</td>
       <td><b>Treffen der GI-Fachgruppe Automotive Software Engineering</b></td>  
+      <td>Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken)<p></p>
+    </tr>  
+    <tr>      
+      <td>18:00-</td>
+      <td><b>ASE Diskussionrunde</b></td>  
+      <td>Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken)<p></p>
     </tr>  
         
