@@ -3,8 +3,9 @@ title: Programm
 nav: true
 ---
 
-
+Der ASE Workshop 2023 wird im Heinz Nizdorf Forum(HNF),  Fürstenallee 7, 33102 Paderborn, im Seminarraum S5 stattfinden
 Im Folgenden finden Sie einen Überblick über das Programm. 
+
 
 ### Programm
 
@@ -46,8 +47,13 @@ table.GeneratedTable thead {
   </thead>
   <tbody>
     <tr>
+      <td>12:00-13:00</td>
+      <td>Möglichkeit zum Mittagessen, HNF Ausstellungsfläche</td>
+    </tr>
+    <tr>
       <td>13:00-13:10</td>
       <td>Begrüßung</td>
+      <td>Ort:HNF,Seminarraum S5</td>
     </tr>
     <tr>
       <td>13:10-14:00</td>
@@ -113,11 +119,10 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
     <tr>      
       <td>17:30-18.00</td>
       <td><b>Treffen der GI-Fachgruppe Automotive Software Engineering</b></td>  
-      <td>Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken)<p></p>
     </tr>  
     <tr>      
-      <td>18:00-</td>
+      <td>18:00-21.00</td>
       <td><b>ASE Diskussionrunde</b></td>  
-      <td>Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken)<p></p>
+      <td>Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken)<p></p></td>
     </tr>  
         
