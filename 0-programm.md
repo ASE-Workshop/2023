@@ -52,9 +52,10 @@ table.GeneratedTable thead {
     </tr>
     <tr>
       <td>13:00-13:10</td>
-      <td>Begrüßung <p></p>
-      Ort:HNF,Seminarraum S5</td>
-    </tr>
+      <td>
+        <b>Begrüßung</b> <br/>
+          <sup> Ort:HNF,Seminarraum S5 </sup> <p></p>
+      </tr>
     <tr>
       <td>13:10-14:00</td>
       <td>Keynote<p></p>
@@ -122,7 +123,8 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
     </tr>  
     <tr>      
       <td>18:00-21.00</td>
-      <td><b>ASE Diskussionrunde</b><p></p>
-        Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken)<p></p></td>
+      <td><b>ASE Diskussionrunde</b><br/>
+          <sup> Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken) </sup> <p></p>
+      </td>
     </tr>  
         
