@@ -48,7 +48,10 @@ table.GeneratedTable thead {
   <tbody>
     <tr>
       <td>12:00-13:00</td>
-      <td>Möglichkeit zum Mittagessen, HNF Ausstellungsfläche</td>
+      <td>
+        <b>Möglichkeit zum Mittagessen</b> <br/>
+          <sup> Ort:HNF Ausstellungsfläche </sup> <p></p>
+      </td>
     </tr>
     <tr>
       <td>13:00-13:10</td>
